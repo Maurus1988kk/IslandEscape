@@ -1,17 +1,45 @@
 # Fuga dall'Isola Sperduta
 
-Escape room didattica di geografia sull'orientamento per la scuola primaria (7-9 anni).
-Sei tappe guidate da Bussolino, il pappagallo esploratore: punti cardinali, il sole,
-l'ombra di mezzogiorno, la mappa, il Grande Carro e la Stella Polare, la navigazione verso casa.
+**Italiano** | [English](README.en.md)
 
-Distribuzione: un solo eseguibile Windows, `dist\FugaDallIsola.exe`, che si avvia con un doppio clic.
-La guida per le insegnanti è in `GUIDA_MAESTRE.txt`.
+Escape room didattica di geografia sull'orientamento per la scuola primaria (7-9 anni),
+pensata per la LIM (lavagna interattiva multimediale) e per il gioco a squadre.
+
+Una classe di piccoli esploratori naufraga su un'isola sperduta. Casa è a **Nord**.
+Con l'aiuto di Bussolino, un pappagallo esploratore, i bambini imparano a orientarsi,
+superano sei tappe, raccolgono i pezzi di una zattera e tornano a casa.
+
+## Le sei tappe
+
+| Tappa | Cosa si impara | Premio |
+|---|---|---|
+| 1. La spiaggia del naufragio | i quattro punti cardinali e il loro ordine in senso orario (N, E, S, O) | Rosa dei venti |
+| 2. L'alba sulla scogliera | il sole sorge a Est; il Nord non è sempre "in alto"; il trucco delle braccia | Corda |
+| 3. Il bastone di mezzogiorno | l'ombra di un bastone durante il giorno: a mezzogiorno è la più corta e indica il Nord; seguire indicazioni come "2 passi a Nord" | Tronchi |
+| 4. Il tramonto e la mappa del tesoro | il sole tramonta a Ovest; leggere una mappa con "a Nord di", "a Ovest di"... | Vela |
+| 5. La notte stellata | trovare il Grande Carro e, prolungando le sue due stelle, la Stella Polare | Stella Polare |
+| 6. La zattera e il viaggio verso casa | costruire la zattera e navigare verso Nord tra scogli e mulinelli | Diploma |
+
+Caratteristiche principali:
+
+- **non si perde mai**: gli errori ricevono un "Quasi! Riprova", dopo 2 errori compare un indizio
+  e dopo 4 l'indizio diventa più esplicito;
+- timer da escape room facoltativo (30, 45 o 60 minuti), che allo scadere non fa perdere;
+- lettura vocale dei fumetti con la voce italiana di Windows e opzione TUTTO MAIUSCOLO;
+- solo tocco o mouse, pulsanti grandi, salvataggio automatico alla fine di ogni tappa;
+- grafica e suoni interamente generati via codice, contenuti scientificamente corretti
+  (le stelle del Grande Carro sono nelle loro posizioni reali);
+- diploma finale di "Esploratore dell'Orientamento" con le sei regole imparate.
+
+Il gioco è in italiano. La guida per le insegnanti (durate, uso alla LIM, soluzioni,
+attività in classe e in cortile) è in [`GUIDA_MAESTRE.txt`](GUIDA_MAESTRE.txt).
 
 ## Scaricare il gioco
 
 L'eseguibile pronto si scarica dalla pagina
 [Releases](https://github.com/Maurus1988kk/IslandEscape/releases/latest):
 file `FugaDallIsola.exe` (insieme alla guida `GUIDA_MAESTRE.txt`).
+Si avvia con un doppio clic, senza installare niente (Windows 10 o 11 a 64 bit).
 Al primo avvio Windows SmartScreen può mostrare un avviso: "Ulteriori informazioni" → "Esegui comunque".
 
 ---
