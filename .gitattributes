@@ -1,0 +1,5 @@
+* text=auto
+*.bat text eol=crlf
+GUIDA_MAESTRE.txt text eol=crlf
+*.ico binary
+*.png binary

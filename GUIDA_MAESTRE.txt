@@ -1,0 +1,239 @@
+﻿=====================================================================
+   FUGA DALL'ISOLA SPERDUTA
+   Guida per le insegnanti
+=====================================================================
+
+Un'escape room di geografia sull'orientamento per bambini di 7-9 anni.
+Una classe di piccoli esploratori naufraga su un'isola. Casa è a NORD.
+Con l'aiuto di Bussolino, un pappagallo esploratore, i bambini superano
+sei tappe, raccolgono i pezzi per una zattera e tornano a casa.
+
+Nel gioco non si perde mai: gli errori ricevono solo un "Quasi! Riprova".
+
+
+---------------------------------------------------------------------
+1. COME AVVIARE IL GIOCO
+---------------------------------------------------------------------
+- Copiate il file FugaDallIsola.exe sul computer (anche su una chiavetta
+  va bene). Non serve installare niente.
+- Fate doppio clic sul file. La prima volta servono alcuni secondi.
+
+AVVISO DI WINDOWS (SmartScreen)
+Il file non è "firmato", quindi la prima volta Windows può mostrare la
+finestra blu "Windows ha protetto il PC". In quel caso:
+   1. cliccate su "Ulteriori informazioni";
+   2. cliccate sul pulsante "Esegui comunque".
+Succede solo la prima volta. Se l'antivirus della scuola blocca il file,
+chiedete al tecnico di autorizzarlo.
+
+DURANTE IL GIOCO
+- Il gioco parte a schermo intero. Il tasto F11 passa dalla finestra allo
+  schermo intero e viceversa.
+- Il pulsante con le due barre (in alto a destra) o il tasto ESC aprono la
+  PAUSA: Riprendi, Ricomincia tappa, Menu principale, Esci.
+- Tutto si fa con il dito o con il mouse. La tastiera serve solo per
+  scrivere il nome della squadra (facoltativo: c'è il pulsante "Salta").
+
+
+---------------------------------------------------------------------
+2. DURATA INDICATIVA
+---------------------------------------------------------------------
+   Introduzione e mappa ............. 3 minuti
+   Tappa 1 - Spiaggia ............... 5-7 minuti
+   Tappa 2 - Alba ................... 5-8 minuti
+   Tappa 3 - Bastone di mezzogiorno . 10-15 minuti
+   Tappa 4 - Tramonto e mappa ....... 8-10 minuti
+   Tappa 5 - Notte stellata ......... 6-10 minuti
+   Tappa 6 - Zattera e viaggio ...... 8-12 minuti
+   TOTALE ........................... 45-65 minuti circa
+
+Si può giocare in una sola volta o in più giorni (vedi "Salvataggio").
+
+
+---------------------------------------------------------------------
+3. COME USARLO ALLA LIM A SQUADRE
+---------------------------------------------------------------------
+- Dividete la classe in 3-5 squadre. A ogni domanda va alla lavagna un
+  bambino diverso, dopo che la sua squadra ha deciso la risposta.
+- Si possono dare ruoli a turno: il "lettore" legge il fumetto ad alta
+  voce, il "navigatore" tocca la LIM, il "custode della bussola" controlla
+  la rosa dei venti che resta sempre in alto a destra.
+- Dopo 2 errori compare il pulsante giallo "Indizio"; dopo 4 errori
+  l'indizio diventa più chiaro e il gioco mostra un aiuto sullo schermo.
+  Potete decidere voi quando concedere l'indizio.
+- In alternativa si può giocare tutti insieme, con l'insegnante alla LIM
+  che raccoglie le proposte della classe.
+- Con il timer attivo l'attività diventa una vera escape room. Allo scadere
+  non si perde: Bussolino dice "Il tempo è finito, ma i veri esploratori non
+  si arrendono! Continuiamo?" e si va avanti.
+
+
+---------------------------------------------------------------------
+4. OPZIONI (dal menu principale)
+---------------------------------------------------------------------
+- Timer da escape room: Spento (normale), 30, 45 o 60 minuti.
+- Suoni: sì / no. I suoni sono brevi e gentili, anche quello di errore.
+- Lettura vocale: sì / no. Bussolino legge ad alta voce i fumetti con la
+  voce italiana di Windows (di solito si chiama "Elsa"). Se la voce non c'è,
+  l'opzione si spegne da sola e compare un messaggio.
+  Per aggiungere la voce: Impostazioni di Windows > Ora e lingua > Voce >
+  Aggiungi voci > Italiano (poi riavviare il gioco).
+- TUTTO MAIUSCOLO: tutti i testi in stampatello, utile per le classi prime
+  e seconde.
+Le opzioni vengono ricordate.
+
+
+---------------------------------------------------------------------
+5. SALVATAGGIO
+---------------------------------------------------------------------
+Il gioco salva da solo alla fine di ogni tappa. Dal menu, "Continua"
+riparte dall'inizio della tappa successiva all'ultima superata.
+Alla fine del gioco il salvataggio si cancella.
+I file sono nella cartella:  %APPDATA%\FugaIsola
+(salvataggio.json, opzioni.json, log.txt). Cancellando la cartella si
+riparte da zero. Se succede un problema, il file log.txt aiuta il tecnico.
+
+
+---------------------------------------------------------------------
+6. SCORCIATOIE NASCOSTE PER L'INSEGNANTE
+---------------------------------------------------------------------
+Utili per preparare la lezione o per riprendere da una tappa precisa:
+   Ctrl + Maiusc + 1 ... 6   salta alla tappa 1 ... 6
+   Ctrl + Maiusc + V         va direttamente alla festa finale e al diploma
+(Maiusc è il tasto con la freccia verso l'alto, chiamato anche Shift.)
+Gli oggetti delle tappe precedenti vengono messi nello zaino in automatico.
+
+
+---------------------------------------------------------------------
+7. LE SEI TAPPE: OBIETTIVI, SOLUZIONI E IDEE PER LA CLASSE
+---------------------------------------------------------------------
+
+TAPPA 1 - LA SPIAGGIA DEL NAUFRAGIO  (premio: Rosa dei venti)
+Obiettivo: conoscere i quattro punti cardinali, la loro posizione sulle
+mappe e l'ordine in senso orario N, E, S, O.
+Soluzione:
+- Trascinare le lettere: N in alto, E a destra, S in basso, O a sinistra.
+- Domande in senso orario: dopo il Nord viene l'EST, poi il SUD, poi l'OVEST.
+Attività: disegnate in cortile o in palestra una grande rosa dei venti con
+il gesso o il nastro adesivo. Gioco "Bussolino dice": "Saltate verso Est!",
+"Girate verso il punto che viene dopo il Sud!".
+
+TAPPA 2 - L'ALBA SULLA SCOGLIERA  (premio: Corda)
+Obiettivo: il sole sorge a Est; il Nord non è sempre in alto, dipende da
+come sei girato; il trucco delle braccia.
+Soluzione:
+- Da che parte sorge il sole? EST.
+- Il sole sorge da un lato dello schermo scelto a caso. La E va dalla parte
+  del sole; poi, girando in senso orario: dopo la E viene la S, poi la O,
+  e la N chiude il giro. Esempio: se il sole sorge in basso, E in basso,
+  S a sinistra, O in alto, N a destra.
+- Trucco delle braccia: braccio destro verso il sole che sorge, davanti c'è
+  il Nord, dietro il Sud, a sinistra l'Ovest.
+Attività: al mattino guardate dalla finestra dove sorge il sole e attaccate
+un cartello "EST" su quel muro; poi mettete gli altri cartelli. In cortile
+provate il trucco delle braccia e girate su voi stessi: i punti cardinali
+non si muovono, siamo noi a girare!
+
+TAPPA 3 - IL BASTONE DI MEZZOGIORNO  (premio: Tronchi)
+Obiettivo: l'ombra cambia durante il giorno; a mezzogiorno è la più corta e
+indica il Nord; la mattina punta verso Ovest, la sera verso Est. Seguire
+indicazioni con i punti cardinali.
+Soluzione parte A:
+- Portare lo slider a metà (mezzogiorno) e premere "Fatto!".
+- Toccare la punta dell'ombra: compare la N.
+- La mattina l'ombra punta verso OVEST.
+Soluzione parte B (griglia, si parte dalla tenda):
+- Percorso 1: 2 passi a Nord, poi 3 passi a Est.
+- Percorso 2: 2 passi a Nord, poi 3 passi a Ovest, poi 1 passo a Sud.
+- Percorso 3: 1 passo a Ovest, poi 3 passi a Sud, poi 2 passi a Est, poi
+  1 passo a Nord.
+Se si sbaglia strada, premere "Ricomincia percorso".
+Attività: in una giornata di sole piantate un bastone in giardino (uno
+gnomone). Ogni ora segnate con un sassolino la punta dell'ombra. L'ombra
+più corta indica il Nord. Poi organizzate una caccia al tesoro con
+indicazioni "3 passi a Nord, 2 passi a Est".
+
+TAPPA 4 - IL TRAMONTO E LA MAPPA DEL TESORO  (premio: Vela)
+Obiettivo: il sole tramonta a Ovest; leggere una mappa con il Nord in alto
+e trovare luoghi con le relazioni "a Nord di", "a Ovest di"...
+Soluzione:
+- Da che parte tramonta il sole? OVEST.
+- "La corda è a Nord della capanna": la ROCCIA TARTARUGA.
+- "La tela è a Ovest del faro": la GROTTA.
+- "L'albero è a Est del lago e a Sud della cascata": la PALMA GIGANTE.
+Attività: disegnate la mappa della classe con la rosa dei venti e fate
+indovinelli: "Cosa c'è a Est della lavagna?". A casa, chiedete ai bambini
+di osservare da che parte tramonta il sole.
+
+TAPPA 5 - LA NOTTE STELLATA  (premio: Stella Polare)
+Obiettivo: trovare il Grande Carro e, prolungando di circa 5 volte la
+distanza tra le due stelle in fondo al carro, la Stella Polare, che indica
+il Nord.
+Soluzione:
+- Toccare una delle 7 stelle luminose del Grande Carro (in alto).
+- Toccare le due stelle in fondo al carro, dalla parte opposta al manico
+  (si chiamano Merak e Dubhe).
+- Seguire la linea tratteggiata e toccare la stella da sola: la Polare.
+- Trascinare la N sull'orizzonte, proprio sotto la Stella Polare.
+Attività: costruite un "planetario" bucando un cartoncino nero con le stelle
+del Grande Carro e della Polare, e proiettatele con una torcia. Proponete
+alle famiglie un'osservazione serale del cielo.
+
+TAPPA 6 - LA ZATTERA E IL VIAGGIO VERSO CASA  (vittoria)
+Obiettivo: ripassare tutto e orientarsi in un viaggio.
+Soluzione:
+- Costruzione: prima i TRONCHI (base), poi la CORDA, poi la VELA.
+- Navigazione: una strada possibile, partendo dalla zattera, è
+  E, N, E, N, N, E, N, E, N, N, N, N. Gli scogli e i mulinelli fanno
+  solo tornare indietro di un passo.
+- Domanda del mattino ("andando verso Nord il sole è a destra o a
+  sinistra?"): A DESTRA, perché il sole del mattino è a Est.
+- Domanda della notte: la STELLA POLARE.
+Alla fine: festa e "Diploma di Esploratore dell'Orientamento" con le sei
+regole imparate (si può fotografare lo schermo e stamparlo).
+Attività: costruite piccole zattere con legnetti e spago; gioco del
+"navigatore": un bambino bendato viene guidato dai compagni solo con
+indicazioni "un passo a Nord, due passi a Est".
+
+
+---------------------------------------------------------------------
+8. NOTE SCIENTIFICHE PER L'INSEGNANTE
+---------------------------------------------------------------------
+Il gioco usa regole semplici, corrette per chi vive in Italia.
+Qualche precisazione utile se i bambini fanno domande:
+- Il sole sorge esattamente a Est e tramonta esattamente a Ovest solo agli
+  equinozi (verso il 21 marzo e il 23 settembre). D'estate sorge verso
+  Nord-Est e tramonta verso Nord-Ovest; d'inverno sorge verso Sud-Est e
+  tramonta verso Sud-Ovest. Il gioco mostra il caso dell'equinozio.
+- Il "mezzogiorno del sole" non coincide con le 12 dell'orologio: in Italia
+  cade più o meno tra le 11:45 e le 12:45 con l'ora solare e un'ora più tardi
+  con l'ora legale, secondo la città e il periodo dell'anno. Per l'attività
+  con il bastone osservate l'ombra per un paio d'ore intorno a quell'orario.
+- In Italia (e in tutto l'emisfero nord fuori dai tropici) a mezzogiorno il
+  sole è a Sud e l'ombra indica il Nord. Nell'emisfero sud è il contrario.
+- Il Grande Carro non è una costellazione intera: sono 7 stelle che fanno
+  parte della costellazione dell'Orsa Maggiore. Durante la notte e durante
+  l'anno il carro gira intorno alla Stella Polare (nel gioco c'è la
+  posizione di una sera di primavera), ma le due stelle in fondo al carro
+  puntano sempre verso la Polare.
+- La Stella Polare non è proprio nel punto del Nord del cielo, ma è
+  vicinissima (meno di 1 grado): per orientarsi va benissimo. È alta
+  sull'orizzonte quanto la latitudine del luogo: in Italia tra circa 37 e
+  47 gradi, cioè circa a metà strada tra l'orizzonte e il punto sopra la
+  nostra testa.
+- La distanza tra la Polare e il carro è circa 5 volte la distanza tra le
+  due stelle "puntatrici" (nel gioco le posizioni delle stelle sono quelle vere).
+
+
+---------------------------------------------------------------------
+9. SE QUALCOSA NON VA
+---------------------------------------------------------------------
+- Lo schermo è nero o piccolo: premete F11.
+- Non si sente niente: controllate il volume del computer e l'opzione Suoni.
+- La voce non legge: controllate l'opzione Lettura vocale; se compare
+  "Nessuna voce italiana trovata" vedete il punto 4.
+- Compare "Ops! Qualcosa non ha funzionato": premete "Torna al menu" e poi
+  "Continua". Per il tecnico, i dettagli sono nel file log.txt.
+- Per uscire: pulsante pausa (o ESC), poi "Esci" e "Sì".
+
+Buon viaggio, esploratori!
